@@ -1,0 +1,49 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:75:5: not found: value user_input[0m
+[0m[[0m[31merror[0m] [0m[0m    user_input = s.nextLine()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:77:12: not found: value user_input[0m
+[0m[[0m[31merror[0m] [0m[0m    return user_input[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:86:5: not found: value first_name[0m
+[0m[[0m[31merror[0m] [0m[0m    first_name = s.nextLine()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:89:5: not found: value last_name[0m
+[0m[[0m[31merror[0m] [0m[0m    last_name = s.nextLine()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:92:5: not found: value phone_number[0m
+[0m[[0m[31merror[0m] [0m[0m    phone_number = s.nextLine()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:95:5: not found: value current_balance[0m
+[0m[[0m[31merror[0m] [0m[0m    current_balance = s.nextInt()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:98:100: not found: value first_name[0m
+[0m[[0m[31merror[0m] [0m[0m      "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:98:127: not found: value last_name[0m
+[0m[[0m[31merror[0m] [0m[0m      "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:98:153: not found: value phone_number[0m
+[0m[[0m[31merror[0m] [0m[0m      "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:98:182: not found: value current_balance[0m
+[0m[[0m[31merror[0m] [0m[0m      "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:101:105: not found: value first_name[0m
+[0m[[0m[31merror[0m] [0m[0m    return "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:101:132: not found: value last_name[0m
+[0m[[0m[31merror[0m] [0m[0m    return "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:101:158: not found: value phone_number[0m
+[0m[[0m[31merror[0m] [0m[0m    return "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:101:187: not found: value current_balance[0m
+[0m[[0m[31merror[0m] [0m[0m    return "INSERT INTO accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:132:19: not found: value first_name[0m
+[0m[[0m[31merror[0m] [0m[0m      "\n\nHi " + first_name + ", you have $" + current_balance + " in your account.\nWhat would you like to do next?\n\nPress T to transfer money: "[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/user/Projects/Big Data/Bank App/src/main/scala/Account.scala:132:49: not found: value current_balance[0m
+[0m[[0m[31merror[0m] [0m[0m      "\n\nHi " + first_name + ", you have $" + current_balance + " in your account.\nWhat would you like to do next?\n\nPress T to transfer money: "[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m16 errors found[0m

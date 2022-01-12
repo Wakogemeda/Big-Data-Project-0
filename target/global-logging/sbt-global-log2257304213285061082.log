@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, Some(d4e62ca5-2f7c-404f-8526-f3649968e41a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@478089b6, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/user/Projects/Big Data/BankApp/target/scala-3.1.0/classes ...[0m

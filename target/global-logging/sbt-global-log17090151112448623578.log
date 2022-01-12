@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(~run, Some(e0b5c494-04b8-4059-a385-e1e6ea107566), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@39e3ea78, check cycles: false, forcegc: true[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 42 s, completed Jan 12, 2022, 3:05:28 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, Some(CommandSource(console0)))[0m

@@ -1,0 +1,2184 @@
+[0m2022.01.10 10:19:43 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/Bank App' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.10 10:19:45 INFO  time: initialize in 2.1s[0m
+[0m2022.01.10 10:19:46 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher11041332876351156261/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher11041332876351156261/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher11041332876351156261/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 10:19:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 10:19:47 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher16396589215988347669/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher16396589215988347669/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher16396589215988347669/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 10:19:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 10:19:47 INFO  time: Connected to build server in 1.19s[0m
+[0m2022.01.10 10:19:47 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.10 10:20:03 INFO  time: indexed workspace in 15s[0m
+[0m2022.01.10 10:20:05 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.10 10:41:58 WARN  no build target for: /Users/user/Projects/Big Data/Week 2 Examples/src/main/scala/Week2.scala[0m
+[0m2022.01.10 10:42:00 INFO  time: code lens generation in 1.05s[0m
+[0m2022.01.10 10:42:13 INFO  shutting down Metals[0m
+[0m2022.01.10 10:42:13 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2022.01.10 10:42:13 INFO No more data in the client stdin, exiting...
+ Shut down connection with build server.[0mNo more data in the server stdin, exiting...
+
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2022.01.10 10:42:13 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022.01.10 11:17:04 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/Bank App' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.10 11:17:07 INFO  time: initialize in 3.36s[0m
+[0m2022.01.10 11:17:08 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher6552369909633191030/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2022.01.10 11:17:08 INFO  skipping build import with status 'Requested'[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher6552369909633191030/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher6552369909633191030/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 11:17:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 11:17:08 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher200789538236324192/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher200789538236324192/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher200789538236324192/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 11:17:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 11:17:09 INFO  time: Connected to build server in 0.7s[0m
+[0m2022.01.10 11:17:09 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.10 11:17:18 INFO  time: indexed workspace in 9.15s[0m
+[0m2022.01.10 11:17:21 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.10 11:27:43 INFO  shutting down Metals[0m
+[0mNo more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2022.01.10 11:27:43 No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+INFO  Shut down connection with build server.[0m
+[0m2022.01.10 11:27:43 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2022.01.10 15:12:06 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/Bank App' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.10 15:12:08 INFO  time: initialize in 2.32s[0m
+[0m2022.01.10 15:12:09 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher17355046081991760905/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2022.01.10 15:12:08 INFO  skipping build import with status 'Requested'[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher17355046081991760905/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher17355046081991760905/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 15:12:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 15:12:09 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher3965160871387943881/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher3965160871387943881/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher3965160871387943881/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 15:12:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 15:12:09 INFO  time: Connected to build server in 0.59s[0m
+[0m2022.01.10 15:12:09 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.10 15:12:18 INFO  time: indexed workspace in 8.54s[0m
+[0m2022.01.10 15:12:20 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Jan 10, 2022 3:20:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+[0m2022.01.10 15:22:06 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:22:06 INFO  time: compiled bank-app in 0.66s[0m
+[0m2022.01.10 15:22:42 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:22:42 INFO  time: compiled bank-app in 0.33s[0m
+[0m2022.01.10 15:25:32 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:25:32 INFO  time: compiled bank-app in 0.18s[0m
+[0m2022.01.10 15:31:09 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:31:09 INFO  time: compiled bank-app in 82ms[0m
+[0m2022.01.10 15:31:35 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:31:35 INFO  time: compiled bank-app in 86ms[0m
+[0m2022.01.10 15:31:52 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:31:52 INFO  time: compiled bank-app in 0.1s[0m
+Jan 10, 2022 3:32:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 367
+Jan 10, 2022 3:32:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 366
+[0m2022.01.10 15:32:17 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:32:17 INFO  time: compiled bank-app in 0.25s[0m
+[0m2022.01.10 15:35:06 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:35:06 INFO  time: compiled bank-app in 0.47s[0m
+[0m2022.01.10 15:35:47 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:35:47 INFO  time: compiled bank-app in 0.23s[0m
+[0m2022.01.10 15:36:10 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:36:10 INFO  time: compiled bank-app in 98ms[0m
+[0m2022.01.10 15:36:16 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:36:16 INFO  time: compiled bank-app in 0.2s[0m
+[0m2022.01.10 15:38:34 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:38:34 INFO  time: compiled bank-app in 0.41s[0m
+[0m2022.01.10 15:42:39 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:42:39 INFO  time: compiled bank-app in 0.24s[0m
+[0m2022.01.10 15:43:31 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:43:31 INFO  time: compiled bank-app in 0.18s[0m
+[0m2022.01.10 15:48:56 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:48:56 INFO  time: compiled bank-app in 0.16s[0m
+[0m2022.01.10 15:49:25 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:49:25 INFO  time: compiled bank-app in 0.1s[0m
+[0m2022.01.10 15:49:27 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:49:27 INFO  time: compiled bank-app in 98ms[0m
+[0m2022.01.10 15:49:41 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:49:41 INFO  time: compiled bank-app in 0.45s[0m
+[0m2022.01.10 15:53:23 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:53:23 INFO  time: compiled bank-app in 0.28s[0m
+[0m2022.01.10 15:54:28 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:54:28 INFO  time: compiled bank-app in 0.26s[0m
+Jan 10, 2022 3:56:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 837
+[0m2022.01.10 15:56:23 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 15:56:23 INFO  time: compiled bank-app in 0.17s[0m
+[0m2022.01.10 16:07:21 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:07:21 INFO  time: compiled bank-app in 0.15s[0m
+[0m2022.01.10 16:08:35 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:08:35 INFO  time: compiled bank-app in 0.28s[0m
+[0m2022.01.10 16:10:07 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:10:07 INFO  time: compiled bank-app in 4ms[0m
+[0m2022.01.10 16:12:46 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:12:46 INFO  time: compiled bank-app in 0.4s[0m
+[0m2022.01.10 16:13:34 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:13:34 INFO  time: compiled bank-app in 38ms[0m
+[0m2022.01.10 16:16:00 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:16:00 INFO  time: compiled bank-app in 0.2s[0m
+[0m2022.01.10 16:16:32 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:16:32 INFO  time: compiled bank-app in 94ms[0m
+[0m2022.01.10 16:16:46 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:16:46 INFO  time: compiled bank-app in 0.15s[0m
+[0m2022.01.10 16:17:52 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:17:52 INFO  time: compiled bank-app in 0.26s[0m
+[0m2022.01.10 16:19:11 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:19:11 INFO  time: compiled bank-app in 0.3s[0m
+[0m2022.01.10 16:19:52 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:19:52 INFO  time: compiled bank-app in 0.1s[0m
+[0m2022.01.10 16:20:25 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:20:25 INFO  time: compiled bank-app in 0.25s[0m
+[0m2022.01.10 16:22:47 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:22:47 INFO  time: compiled bank-app in 0.2s[0m
+[0m2022.01.10 16:23:34 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:23:34 INFO  time: compiled bank-app in 0.3s[0m
+[0m2022.01.10 16:26:22 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:26:22 INFO  time: compiled bank-app in 0.16s[0m
+[0m2022.01.10 16:27:07 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:27:07 INFO  time: compiled bank-app in 0.15s[0m
+[0m2022.01.10 16:30:00 WARN  no build target for: /Users/user/Projects/Big Data/MySQL/JDBCEx/src/main/scala/JDBCEx.scala[0m
+[0m2022.01.10 16:30:48 INFO  shutting down Metals[0m
+[0m2022.01.10 16:30:48 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2022.01.10 16:30:48No more data in the server stdin, exiting...
+ No more data in the server stdin, exiting...
+INFO No more data in the client stdin, exiting...
+ Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+[0m2022.01.10 16:39:19 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/Bank App' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.10 16:39:22 INFO  time: initialize in 3s[0m
+[0m2022.01.10 16:39:23 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher5448299768089403133/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher5448299768089403133/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher5448299768089403133/bsp.socket...
+[0m2022.01.10 16:39:23 INFO  skipping build import with status 'Requested'[0m
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 16:39:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 16:39:23 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher1058526046780172710/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher1058526046780172710/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher1058526046780172710/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 16:39:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 16:39:23 INFO  time: Connected to build server in 0.76s[0m
+[0m2022.01.10 16:39:23 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.10 16:39:28 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.10 16:39:32 INFO  time: code lens generation in 8.72s[0m
+[0m2022.01.10 16:39:34 INFO  time: indexed workspace in 9.91s[0m
+[0m2022.01.10 16:39:34 WARN  no build target for: /Users/user/Projects/Big Data/MySQL/JDBCEx/src/main/scala/JDBCEx.scala[0m
+[0m2022.01.10 16:39:34 WARN  no build target for: /Users/user/Projects/Big Data/MySQL/JDBCEx/src/main/scala/JDBCEx.scala[0m
+[0m2022.01.10 16:39:41 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:39:41 INFO  time: compiled bank-app in 0.96s[0m
+[0m2022.01.10 16:40:16 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:40:16 INFO  time: compiled bank-app in 0.54s[0m
+[0m2022.01.10 16:40:44 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:40:44 INFO  time: compiled bank-app in 0.17s[0m
+[0m2022.01.10 16:42:04 WARN  no build target for: /Users/user/Projects/Big Data/MySQL/JDBCEx/src/main/scala/JDBCEx.scala[0m
+[0m2022.01.10 16:45:40 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:45:40 INFO  time: compiled bank-app in 94ms[0m
+[0m2022.01.10 16:46:39 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:46:39 INFO  time: compiled bank-app in 0.14s[0m
+Jan 10, 2022 4:53:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 231
+[0m2022.01.10 16:54:14 INFO  compiling bank-app (2 scala sources)[0m
+[0m2022.01.10 16:54:14 INFO  time: compiled bank-app in 0.2s[0m
+[0m2022.01.10 16:54:14 INFO  compiling bank-app (2 scala sources)[0m
+[0m2022.01.10 16:54:14 INFO  time: compiled bank-app in 0.11s[0m
+[0m2022.01.10 16:55:09 INFO  compiling bank-app (2 scala sources)[0m
+[0m2022.01.10 16:55:09 INFO  time: compiled bank-app in 0.1s[0m
+[0m2022.01.10 16:55:27 INFO  compiling bank-app (2 scala sources)[0m
+[0m2022.01.10 16:55:27 INFO  time: compiled bank-app in 0.39s[0m
+[0m2022.01.10 16:58:46 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:58:46 INFO  time: compiled bank-app in 0.12s[0m
+[0m2022.01.10 16:58:55 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:58:55 INFO  time: compiled bank-app in 0.24s[0m
+[0m2022.01.10 16:59:27 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 16:59:27 INFO  time: compiled bank-app in 0.21s[0m
+[0m2022.01.10 17:00:04 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 17:00:04 INFO  time: compiled bank-app in 0.2s[0m
+[0m2022.01.10 17:00:47 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 17:00:47 INFO  time: compiled bank-app in 0.24s[0m
+[0m2022.01.10 17:02:22 INFO  time: code lens generation in 3.33s[0m
+[0m2022.01.10 17:03:29 INFO  compiling bank-app (1 scala source)[0m
+[0m2022.01.10 17:03:29 INFO  time: compiled bank-app in 0.29s[0m
+[0m2022.01.10 17:16:34 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/BankApp' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.10 17:16:36 INFO  time: initialize in 2.32s[0m
+[0m2022.01.10 17:16:41 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher7982137541864271795/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/Users/user/Projects/Big Data/BankApp/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/user/Projects/Big Data/BankApp/.bloop/bank-app.json'
+[0m[32m[D][0m Loading project from '/Users/user/Projects/Big Data/BankApp/.bloop/bank-app-test.json'
+[0m[32m[D][0m Missing analysis file for project 'bank-app-test'
+[0m[32m[D][0m Loading previous analysis for 'bank-app' from '/Users/user/Projects/Big Data/Bank App/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_3.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher7982137541864271795/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher7982137541864271795/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 17:16:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 17:16:41 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher13990900688902576094/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher13990900688902576094/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher13990900688902576094/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.10 17:16:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.10 17:16:41 INFO  time: Connected to build server in 0.89s[0m
+[0m2022.01.10 17:16:41 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.10 17:17:10 INFO  time: indexed workspace in 28s[0m
+[0m2022.01.10 17:17:13 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.10 17:18:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:18:55 WARN  no build target for: /Users/user/Projects/Big Data/MySQL/JDBCEx/src/main/scala/JDBCEx.scala[0m
+[0m2022.01.10 17:20:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:21:18 WARN  no build target for: /Users/user/Projects/Big Data/Bank App/Account_og.scala[0m
+[0m2022.01.10 17:22:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:23:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:23:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 10, 2022 5:24:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 265
+[0m2022.01.10 17:24:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:26:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:27:08 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:28:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:28:47 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:29:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:30:33 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:31:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:33:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:33:48 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:34:25 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:55: error: [dialect scala3] : expected but ) found
+  def open(o): String = {
+            ^[0m
+[0m2022.01.10 17:34:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:34:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:37:30 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 10, 2022 5:37:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2FUsers%2Fuser%2FProjects%2FBig%2520Data%2FBankApp%2F.metals%2Freadonly%2Fdependencies%2Fscala-library-2.12.15-sources.jar%2Fscala%2FPredef.scala:20: error: { expected but \n\n found
+
+^
+file%3A%2F%2F%2FUsers%2Fuser%2FProjects%2FBig%2520Data%2FBankApp%2F.metals%2Freadonly%2Fdependencies%2Fscala-library-2.12.15-sources.jar%2Fscala%2FPredef.scala:20: error: { expected but \n\n found
+
+^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:941)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:947)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrError(ScalametaParser.scala:809)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOrNil(ScalametaParser.scala:827)
+	at scala.meta.internal.parsers.ScalametaParser.packageBody$1(ScalametaParser.scala:5238)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$packageDef$1(ScalametaParser.scala:5241)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.packageDef(ScalametaParser.scala:5230)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$packageOrPackageObjectDef$1(ScalametaParser.scala:5227)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.packageOrPackageObjectDef(ScalametaParser.scala:5224)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5086)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:5080)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:5070)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:5079)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:5310)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:5269)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:888)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:922)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5251)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5257)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:143)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:53)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:143)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5321)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2022.01.10 17:38:43 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:39:56 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:42:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:42:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:44:48 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:45:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:46:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:48:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:50:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:53:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:53:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:53:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:55:16 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:57:02 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:59:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 17:59:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:00:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:01:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:01:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:03:59 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:05:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 10, 2022 6:05:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1759
+[0m2022.01.10 18:15:21 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:15:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:18:38 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 10, 2022 6:19:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1875
+[0m2022.01.10 18:19:08 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:100: error: [dialect scala3] ; expected but = found
+    return UPDATE accounts SET current_balance = current_blalance+deposit WHERE account_num = account_num;
+                                                                                            ^[0m
+[0m2022.01.10 18:19:08 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:22:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:22:49 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:23:38 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:26:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:28:44 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:30:12 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:31:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:31:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:38:53 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:39:29 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:39:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:40:10 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:42:10 WARN  no build target for: /Users/user/Projects/Big Data/Bank App/Account_og.scala[0m
+[0m2022.01.10 18:42:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:42:16 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:42:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:43:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:45:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:47:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 18:47:54 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:41:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:44:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:46:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:47:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:48:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:48:59 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:49:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:50:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:51:21 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:53:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:54:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:55:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:56:51 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:57:20 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:57:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 19:58:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:01:47 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:03:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:05:56 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:06:05 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:07:04 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:08:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:09:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:11:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:15:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:18:07 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:20:04 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:22:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:23:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:27:14 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:27:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:32:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:32:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:33:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:33:16 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:39:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:43:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:43:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:46:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:52:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:54:30 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:57:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 20:59:59 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:05:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:07:08 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:16:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:16:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:17:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:18:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:20:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:22:14 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:22:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:23:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:26:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:26:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:32:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:33:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:33:20 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:33:30 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:33:38 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:33:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:34:05 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:35:49 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:36:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:36:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:39:36 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:128: error: [dialect scala3] } expected but ) found
+      var total_deposit =  (deposit_amt + current_balance))
+                                                          ^[0m
+[0m2022.01.10 21:39:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:39:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:42:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:42:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:45:07 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:154: error: [dialect scala3] } expected but end of file found
+
+^[0m
+[0m2022.01.10 21:45:07 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:45:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:46:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:46:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:48:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:49:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:52:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:54:49 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:56:32 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:56:43 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 21:59:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 22:00:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 22:12:02 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.10 22:12:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 10:05:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 10:37:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 11:04:27 INFO  shutting down Metals[0m
+[0m2022.01.11 11:04:27 INFO  Shut down connection with build server.[0m
+[0m2022.01.11 11:04:27 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2022.01.11 11:04:29 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022.01.11 11:56:37 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/BankApp' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.11 11:56:39 INFO  time: initialize in 1.99s[0m
+[0m2022.01.11 11:56:39 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher3190843186340529549/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2022.01.11 11:56:39 INFO  skipping build import with status 'Requested'[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher3190843186340529549/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher3190843186340529549/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.11 11:56:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.11 11:56:40 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher822802995722888621/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher822802995722888621/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher822802995722888621/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.11 11:56:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.11 11:56:40 INFO  time: Connected to build server in 1.31s[0m
+[0m2022.01.11 11:56:40 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.11 11:56:44 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.11 11:56:44 INFO  time: code lens generation in 4.67s[0m
+[0m2022.01.11 11:56:47 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.11 11:56:50 INFO  time: code lens generation in 9.19s[0m
+[0m2022.01.11 11:56:57 INFO  time: indexed workspace in 12s[0m
+[0m2022.01.11 11:56:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 11:56:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 12:02:52 INFO  shutting down Metals[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0mNo more data in the server stdin, exiting...
+2022.01.11 12:02:52No more data in the server stdin, exiting...
+ INFO  Shut down connection with build server.[0m
+[0m2022.01.11 12:02:52 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2022.01.11 12:36:38 INFO  Started: Metals version 0.10.9 in workspace '/Users/user/Projects/Big Data/BankApp' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.11 12:36:40 INFO  time: initialize in 2.24s[0m
+[0m2022.01.11 12:36:41 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher9263677242600009003/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher9263677242600009003/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher9263677242600009003/bsp.socket...
+[0m2022.01.11 12:36:42 INFO  skipping build import with status 'Requested'[0m
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.11 12:36:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.11 12:36:42 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher18106573738465582935/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher18106573738465582935/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/8d/0r3w9q4d5pd_lvg0b67_fl540000gn/T/bsp-launcher18106573738465582935/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2022.01.11 12:36:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/user/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2022.01.11 12:36:42 INFO  time: Connected to build server in 0.94s[0m
+[0m2022.01.11 12:36:42 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2022.01.11 12:36:52 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.11 12:36:53 INFO  time: indexed workspace in 10s[0m
+[0m2022.01.11 12:36:53 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 12:36:53 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 12:36:56 INFO  time: code lens generation in 13s[0m
+[0m2022.01.11 12:36:56 INFO  time: code lens generation in 3.51s[0m
+[0m2022.01.11 13:05:02 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 13:07:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 13:07:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 13:08:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 13:08:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 1:08:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 261
+[0m2022.01.11 13:09:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 1:22:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.01.11 13:55:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 13:58:43 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:22:01 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:76: error: unclosed string literal
+    return "BEGIN INSERT INTO checking_accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");
+                                                                                                                                                                                                                                 ^[0m
+[0m2022.01.11 14:22:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:23:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:30:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:33:48 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:36:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:38:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:42:49 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:79: error: [dialect scala3] } expected but ) found
+    return "BEGIN \nINSERT INTO checking_accounts(first_name, last_name, phone_number, current_balance) VALUES(" + "'" + first_name + "', " + "'" + last_name + "', " + "'" + phone_number + "', " + "'" + current_balance + "'" + ");" + "\nEND;")
+                                                                                                                                                                                                                                                  ^[0m
+[0m2022.01.11 14:42:49 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:43:10 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:48:07 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:51:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:52:47 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:56:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:57:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Exception in thread "pool-4-thread-1" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 14:58:10 INFO  time: code lens generation in 13s[0m
+[0m2022.01.11 14:58:10 INFO  time: code lens generation in 4.14s[0m
+[0m2022.01.11 14:58:10 INFO  time: code lens generation in 5.57s[0m
+[0m2022.01.11 14:58:10 INFO  time: code lens generation in 11s[0m
+[0m2022.01.11 14:58:10 INFO  time: code lens generation in 6.25s[0m
+[0m2022.01.11 14:58:10 INFO  time: code lens generation in 17s[0m
+Exception in thread "pool-4-thread-2" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 5.42s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 7.82s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 16s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 6.12s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 9.07s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 9.67s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 17s[0m
+[0m2022.01.11 14:58:30 INFO  time: code lens generation in 19s[0m
+[0m2022.01.11 14:59:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 14:59:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 15:03:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 15:13:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 15:48:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 15:49:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 15:56:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 4:01:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2645
+[0m2022.01.11 16:03:05 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:90: error: [dialect scala3] then expected but } found
+  }
+  ^[0m
+[0m2022.01.11 16:03:05 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:03:33 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:04:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:09:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Exception in thread "pool-4-thread-3" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-4-thread-4" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-4-thread-5" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-4-thread-6" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3753
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3760
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3756
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3754
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3761
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3755
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3757
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3768
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3767
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3769
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3772
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3774
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3776
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3779
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3782
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3784
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3788
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3790
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3791
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3793
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3797
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3801
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3804
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3803
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3805
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3809
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3813
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3816
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3818
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3820
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3819
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3821
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3829
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3827
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3825
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3826
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3836
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3828
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3842
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3844
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3849
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3855
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3847
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3848
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3850
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3861
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3860
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3862
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3866
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3864
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3865
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3867
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3877
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3875
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3881
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3873
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3882
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3874
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3876
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3887
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3889
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3893
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3895
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3894
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3896
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3901
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3903
+Jan 11, 2022 4:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3907
+Exception in thread "pool-4-thread-7" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 16:12:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 3.73s[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 1.92s[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 7.04s[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 6.54s[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 8.46s[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 4.69s[0m
+[0m2022.01.11 16:12:28 INFO  time: code lens generation in 10s[0m
+Exception in thread "pool-4-thread-8" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 16:13:44 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:16:14 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:17:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:18:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:21:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:23:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:24:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:25:49 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:26:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:31:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:34:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:34:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:35:00 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:41:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:42:16 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:53:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 4:53:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4807
+[0m2022.01.11 16:53:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:53:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:54:04 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:56:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 16:57:43 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:00:38 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:88: error: [dialect scala3] } expected but ) found
+      )
+      ^[0m
+[0m2022.01.11 17:00:38 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:00:52 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:01:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:02:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:03:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:04:32 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:05:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:07:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:10:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Exception in thread "pool-4-thread-9" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 17:22:43 INFO  time: code lens generation in 20s[0m
+Exception in thread "pool-4-thread-10" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 17:23:03 INFO  time: code lens generation in 2.94s[0m
+[0m2022.01.11 17:23:03 INFO  time: code lens generation in 2.15s[0m
+[0m2022.01.11 17:23:03 INFO  time: code lens generation in 7.1s[0m
+Exception in thread "pool-4-thread-11" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-4-thread-12" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6165
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6166
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6168
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6167
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6170
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6169
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6171
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6187
+Jan 11, 2022 5:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6189
+[0m2022.01.11 17:28:53 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:13: error: [dialect scala3] identifier expected but object found
+object JDBCEx {
+^[0m
+[0m2022.01.11 17:28:53 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:30:26 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:13: error: [dialect scala3] identifier expected but object found
+object JDBCEx {
+^[0m
+[0m2022.01.11 17:30:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:32:05 WARN  no build target for: /Users/user/Desktop/Account-gabriel.scala[0m
+[0m2022.01.11 17:32:05 ERROR scalafmt: /Users/user/Desktop/Account-gabriel.scala:13: error: [dialect scala3] identifier expected but object found
+object JDBCEx {
+^[0m
+[0m2022.01.11 17:32:05 WARN  no build target for: /Users/user/Desktop/Account-gabriel.scala[0m
+[0mJan 11, 2022 5:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6398
+2022.01.11 17:32:48 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:33:22 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:13: error: [dialect scala3] identifier expected but object found
+object JDBCEx {
+^[0m
+[0m2022.01.11 17:33:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:41:19 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:13: error: [dialect scala3] identifier expected but object found
+object JDBCEx {
+^[0m
+[0m2022.01.11 17:41:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:41:37 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:13: error: [dialect scala3] identifier expected but object found
+object JDBCEx {
+^[0m
+[0m2022.01.11 17:41:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:41:38 WARN  no build target for: /Users/user/Projects/Big Data/Bank App/Account_og.scala[0m
+[0m2022.01.11 17:43:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:44:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 5:46:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 16 more
+
+[0m2022.01.11 17:47:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 17:47:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 5:59:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 16 more
+
+Jan 11, 2022 6:02:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 16 more
+
+[0m2022.01.11 18:02:29 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:02:47 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:42:12 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:46:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:48:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:49:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:50:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:50:51 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:51:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 18:53:14 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 19:09:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 7:37:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:582)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:579)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1068)
+	... 16 more
+
+Jan 11, 2022 7:37:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7661
+[0m2022.01.11 19:38:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 19:43:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 19:46:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 19:47:20 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 19:48:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 19:51:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:00:13 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:105: error: [dialect scala3] ; expected but catch found
+    } catch {
+      ^[0m
+[0m2022.01.11 20:00:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:01:00 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:05:59 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:06:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:09:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:13:10 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:16:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:16:52 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:18:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 8:25:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9285
+[0m2022.01.11 20:26:29 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:27:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:29:07 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:31:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:34:54 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:39:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:40:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:49:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:51:49 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:54:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:54:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 20:56:54 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:01:56 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:08:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:13:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:17:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:19:32 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:21:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:24:13 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 9:30:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.01.11 21:34:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:35:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:39:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:41:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 11, 2022 9:45:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 11, 2022 9:45:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.01.11 21:47:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:47:20 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Exception in thread "pool-4-thread-13" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 21:49:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:49:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 21:49:35 INFO  time: code lens generation in 19s[0m
+[0m2022.01.11 21:49:35 INFO  time: code lens generation in 7.95s[0m
+[0m2022.01.11 21:49:35 INFO  time: code lens generation in 2.83s[0m
+Exception in thread "pool-4-thread-14" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.11 21:53:51 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:04:30 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:04:44 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:15:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:23:04 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:24:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:25:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:29:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:31:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:33:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:34:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:36:07 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:42:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:42:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:43:15 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:44:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:54:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:54:51 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:56:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:57:05 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 22:59:50 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:02:29 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Exception in thread "pool-4-thread-15" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-4-thread-16" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12756
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12759
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12765
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12766
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12757
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12760
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12775
+Jan 11, 2022 11:07:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12780
+[0m2022.01.11 23:08:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:08:57 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:09:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:09:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:09:52 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:10:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:11:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:12:25 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:16:48 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:17:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:17:59 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:20:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:21:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:23:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:42:05 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:43:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:47:32 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:50:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:51:30 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.11 23:55:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:02:46 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:10:11 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:11:14 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:12:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:13:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:13:43 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:17:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:18:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:18:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:23:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:24:33 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:25:10 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:29:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:33:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:35:37 ERROR scalafmt: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:59: error: [dialect scala3] ; expected but catch found
+     catch {
+     ^[0m
+[0m2022.01.12 00:35:37 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:35:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:36:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:37:08 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:39:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:45:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:47:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:48:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:49:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:55:07 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:56:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:58:42 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 00:59:26 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:00:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:01:45 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:09:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:09:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:09:46 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:09:47 INFO  time: code lens generation in 2.35s[0m
+[0m2022.01.12 01:10:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:11:32 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:12:12 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:13:38 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:14:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:17:04 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:18:51 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:21:16 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:22:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:24:59 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:25:44 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:31:23 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:47:14 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 01:49:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 12, 2022 2:06:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17023
+Jan 12, 2022 2:06:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17024
+[0m2022.01.12 02:07:09 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:10:06 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:29:47 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:43:17 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:47:22 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:48:58 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:51:54 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:52:28 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:54:02 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:56:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 02:59:30 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 03:02:34 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 03:15:01 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 03:15:40 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 03:19:03 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 08:52:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 08:58:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 08:59:19 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 08:59:53 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:01:31 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:02:39 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:04:21 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:44:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Exception in thread "pool-4-thread-17" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-4-thread-18" java.lang.AssertionError: assertion failed
+	at scala.Predef$.assert(Predef.scala:264)
+	at scala.Predef$Ensuring$.ensuring$extension(Predef.scala:359)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.find$1(SemanticSymbolBuilder.scala:89)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOverloadIdx$2(SemanticSymbolBuilder.scala:94)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addDescriptor$1(SemanticSymbolBuilder.scala:115)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addOwner$1(SemanticSymbolBuilder.scala:76)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.addSymName(SemanticSymbolBuilder.scala:147)
+	at dotty.tools.dotc.semanticdb.SemanticSymbolBuilder.symbolName(SemanticSymbolBuilder.scala:30)
+	at dotty.tools.dotc.semanticdb.Scala3$SymbolOps$.symbolName(Scala3.scala:254)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.registerDefinition(ExtractSemanticDB.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:180)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1522)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1524)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver$$anonfun$1(Trees.scala:1610)
+	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)
+	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)
+	at scala.collection.immutable.List.foldLeft(List.scala:79)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1610)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:177)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$10(ExtractSemanticDB.scala:200)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:200)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.apply(Trees.scala:1647)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1614)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1528)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeTraverser.traverseChildren(Trees.scala:1648)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:174)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse$$anonfun$1(ExtractSemanticDB.scala:138)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.semanticdb.ExtractSemanticDB$Extractor.traverse(ExtractSemanticDB.scala:138)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:39)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.semanticdbTextDocument$$anonfun$1(ScalaPresentationCompiler.scala:229)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18172
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18170
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18175
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18168
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18180
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18171
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18183
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18184
+Jan 12, 2022 9:44:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18190
+[0m2022.01.12 09:44:41 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:44:56 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 15s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 18s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 15s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 16s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 20s[0m
+[0m2022.01.12 09:45:01 INFO  time: code lens generation in 19s[0m
+[0m2022.01.12 09:48:35 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:52:27 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 09:55:36 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 10:00:55 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 10:05:18 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 10:13:29 WARN  no build target for: /Users/user/Projects/Big Data/211213-Big-Data-Reston/week 4/JDBCEx/src/main/scala/JDBCEx.scala[0m
+[0m2022.01.12 10:19:10 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 10:19:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 10:19:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+[0m2022.01.12 10:21:24 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 12, 2022 10:24:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18956
+[0m2022.01.12 10:26:38 WARN  no build target for: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala[0m
+Jan 12, 2022 10:26:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18985

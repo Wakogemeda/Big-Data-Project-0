@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(~run, Some(80edd212-bd8e-4d13-aa02-d78b3f431e16), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@77ea960f, check cycles: false, forcegc: true[0m
+[0m[[0m[33mwarn[0m] [0m[0mCanceling execution...[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0mCancelled: run[0m
+[0m[[0m[31merror[0m] [0m[0mCancelled: run[0m
+[0m[[0m[31merror[0m] [0m[0mUse 'last' for the full log.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, Some(CommandSource(console0)))[0m

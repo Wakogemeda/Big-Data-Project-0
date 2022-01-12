@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__stopWatch console0; __failWatch console0, Some(8b68da88-fc68-497b-bbcf-031513fc4dea), Some(CommandSource(console0)))[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__stopWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__failWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0msbt server started at local:///Users/user/.sbt/1.0/server/df2634b5a6463cd05849/sock[0m
+[0m[[0m[0mdebug[0m] [0m[0mWriting bsp connection file[0m
+[0m[[0m[0minfo[0m] [0m[0mstarted sbt server[0m

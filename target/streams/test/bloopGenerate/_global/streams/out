@@ -1,0 +1,4 @@
+[debug] [bank-app-test] Classpath dependencies List()
+[debug] [bank-app-test] Dependencies from configurations List(bank-app)
+[debug] Bloop wrote the configuration of project 'bank-app-test' to '/Users/user/Projects/Big Data/Bank App/.bloop/bank-app-test.json'
+[success] Generated .bloop/bank-app-test.json

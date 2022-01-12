@@ -1,0 +1,18 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:299:10 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m299 |[0m          Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m    |          [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |          Not found: Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:329:10 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m329 |[0m          Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m    |          [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |          Not found: Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:394:10 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m394 |[0m          Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m    |          [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |          Not found: Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/user/Projects/Big Data/BankApp/src/main/scala/Account.scala:424:10 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m424 |[0m          Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m    |          [31m^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |          Not found: Calendar[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
